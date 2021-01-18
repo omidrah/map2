@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWjcQ6sgjn3Sa676M2xsriaIELJgmJJ4SA4IAXHw6tb1cUAet4vMb1oM7oAi4joZ/PhrMey5d6kth+Ov/2ZvFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahimi.KCRNT\\source\\repos\\ReportGenerator\\ReportGenerator\\ReportGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahimi.KCRNT\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\rahimi.KCRNT\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\rahimi.KCRNT\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
